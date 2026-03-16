@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx:*)",
+      "Read(//private/tmp/**)",
+      "Bash(1:*)",
+      "Bash(npm cache:*)",
+      "Bash(rm:*)",
+      "Bash(cp:*)",
+      "Bash(npm install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote:*)",
+      "Bash(gh auth:*)",
+      "Bash(brew install:*)",
+      "Bash(git push:*)",
+      "Bash(npm run:*)",
+      "Bash(open:*)"
+    ]
+  }
+}
